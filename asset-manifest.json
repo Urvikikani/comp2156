@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/comp2156/static/css/main.15944216.css",
+    "main.js": "/comp2156/static/js/main.2db378ee.js",
+    "index.html": "/comp2156/index.html",
+    "main.15944216.css.map": "/comp2156/static/css/main.15944216.css.map",
+    "main.2db378ee.js.map": "/comp2156/static/js/main.2db378ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15944216.css",
+    "static/js/main.2db378ee.js"
+  ]
+}
